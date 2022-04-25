@@ -8,7 +8,9 @@
 
 Feel free to follow me on:
 Twitter: https://twitter.com/age_coder
+
 GitHub: https://github.com/Rachit-hooda-18
+
 Tailwind Components: https://tailwindcomponents.com/component/newsletters
 
 Don't wait for new videos go here: https://www.youtube.com/channel/UCW7IRRo5Nmz92IHq07QAmTQ
