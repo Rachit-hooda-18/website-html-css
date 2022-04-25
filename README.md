@@ -37,4 +37,5 @@ Please consider subscribing to my channel for more awesome videos 🙏.
 
 https://www.youtube.com/channel/UCW7I...
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Rachit-hooda-18/website-html-css/blob/main/code.png)
+![alt text](https://github.com/Rachit-hooda-18/website-html-css/blob/main/code-1.png)
