@@ -2,13 +2,13 @@
 
 📁 Important Stuff (Source Code):
 
-	Source Code: https://github.com/Rachit-hooda-18/sc...
+Source Code: https://github.com/Rachit-hooda-18/sc...
 	 
- 	Live Demo: https://website-using-html-css.netlify.app/
+ Live Demo: https://website-using-html-css.netlify.app/
 	
- 	Fontawesome CDN: https://cdnjs.com/libraries/font-awesome
+ Fontawesome CDN: https://cdnjs.com/libraries/font-awesome
 	
- 	font awesome: https://fontawesome.com/
+ font awesome: https://fontawesome.com/
 
 Feel free to follow me on:
 Twitter: https://twitter.com/age_coder
@@ -27,11 +27,11 @@ Have a great day💖😀
 
 ⭐ About My Text Editor:-
 
-                 Editor:-   Visual Studio Code
+Editor:-   Visual Studio Code
 		 
-                 Theme:- One Dark Pro
+Theme:- One Dark Pro
 		 
-                 Font:- Cascadia Code
+Font:- Cascadia Code
 
 Please consider subscribing to my channel for more awesome videos 🙏.
 
